@@ -22,7 +22,7 @@ You may also see any lint errors in the console.
 ### the jupyter notebook note book has the remaining code: modify the 'screen grab' function
 
 
-![screenshot1](path/to/image.jpg)
+![screenshot1](https://github.com/kvsnoufal/webdevagent/blob/main/docs/img1.png)
 
-![screenshot1](path/to/image.jpg)
+![screenshot1](https://github.com/kvsnoufal/webdevagent/blob/main/docs/img2.png)
 
